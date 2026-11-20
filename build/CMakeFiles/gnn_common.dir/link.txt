@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnn_common.a CMakeFiles/gnn_common.dir/common/HungarianSolver.cpp.o CMakeFiles/gnn_common.dir/common/GatedAssignment.cpp.o CMakeFiles/gnn_common.dir/common/ScenarioGenerator.cpp.o CMakeFiles/gnn_common.dir/common/Printing.cpp.o
+/usr/bin/ranlib libgnn_common.a

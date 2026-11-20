@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/step1.dir/link.d CMakeFiles/step1.dir/step1_basic_gnn/main.cpp.o CMakeFiles/step1.dir/step1_basic_gnn/GNNAssociator.cpp.o -o step1  libgnn_common.a
